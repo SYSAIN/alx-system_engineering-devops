@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -xamp
+ls -ap1 | awk BEGIN{ORS=, } {print /bin/bash} | sed s/, $/n/
