@@ -26,12 +26,12 @@
 		
 13-Prints a number with two decimal places. The number is stored in the environment variable 'NUM'
 		
-14-Converts a number from base 10 to base 16 
+100-Converts a number from base 10 to base 16 
 		
-100- Encodes and decodes text using the rot13 encryption
+101- Encodes and decodes text using the rot13 encryption
 		
-101- Prints every other line from the input, starting with the first line 
+102- Prints every other line from the input, starting with the first line 
 		
-102-Adds the two numbers stored in the environment variables 'WATER' and 'STIR' and prints the result
+103-Adds the two numbers stored in the environment variables 'WATER' and 'STIR' and prints the result
 
 
